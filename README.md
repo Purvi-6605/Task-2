@@ -1,8 +1,8 @@
 # Task-2: Exploratory Data Analysis (EDA)
-**Overview**
+**Overview** :
 This repository contains the solution for Task 2 of the Elevate AI & ML Internship. The goal of this task was to explore the dataset using statistical methods and data visualizations to uncover patterns, relationships, trends, and anomalies that could inform future machine learning tasks.
 
-**Dataset**
+**Dataset**:
 The Titanic dataset was used for this task. It includes demographic and travel-related data for Titanic passengers, along with their survival outcome.
 
 🛠️ **Tools and Libraries Used**
