@@ -22,33 +22,28 @@ Plotly (for interactive visualizations)
 ✅ **Task Steps**
 1. Import and Inspect the Dataset:
 Loaded the dataset using Pandas and reviewed its structure, data types, and summary statistics.
-
 Identified missing values and basic distributions.
 
 2. Generate Summary Statistics:
 Computed key statistics including mean, median, and standard deviation.
-
 Reviewed column-wise distributions and count summaries.
 
 3. Visualize Data Distributions:
 Created histograms to understand the distribution of numerical features.
-
 Used boxplots to detect outliers and visualize spread.
 
 4. Analyze Feature Relationships:
 Generated correlation heatmaps to find relationships between numeric features.
-
 Created pairplots to visualize joint distributions.
-
 Built interactive visualizations using Plotly for deeper exploration.
 
 5. Identify Patterns and Outliers:
 Detected skewed features, trends, and potential data issues (e.g., extreme values).
-
 Inferred possible insights from visual patterns and correlations.
 
 
 ▶️** How to Run**
+
 Ensure required libraries are installed:
 pandas, matplotlib, seaborn, and plotly.
 
