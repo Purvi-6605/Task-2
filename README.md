@@ -1,8 +1,10 @@
 # Task-2: Exploratory Data Analysis (EDA)
 **Overview** :
+
 This repository contains the solution for Task 2 of the Elevate AI & ML Internship. The goal of this task was to explore the dataset using statistical methods and data visualizations to uncover patterns, relationships, trends, and anomalies that could inform future machine learning tasks.
 
 **Dataset**:
+
 The Titanic dataset was used for this task. It includes demographic and travel-related data for Titanic passengers, along with their survival outcome.
 
 🛠️ **Tools and Libraries Used**
@@ -15,6 +17,7 @@ Matplotlib
 Seaborn
 
 Plotly (for interactive visualizations)
+
 
 ✅ **Task Steps**
 1. Import and Inspect the Dataset:
@@ -44,6 +47,7 @@ Detected skewed features, trends, and potential data issues (e.g., extreme value
 
 Inferred possible insights from visual patterns and correlations.
 
+
 ▶️** How to Run**
 Ensure required libraries are installed:
 pandas, matplotlib, seaborn, and plotly.
@@ -52,7 +56,9 @@ Replace "your_dataset.csv" with your actual dataset path in the script.
 
 Run the Python script or Jupyter notebook to perform EDA and generate visualizations.
 
+
 💡** What I Learned**
+
 How to summarize data using descriptive statistics.
 
 Visual techniques to identify outliers, trends, and correlations.
@@ -61,7 +67,9 @@ The role of data visualization in the EDA phase of machine learning.
 
 The value of interactive plots in understanding multi-dimensional data.
 
+
 📂 **Submission**
+
 This repository is submitted as part of the Elevate AI & ML Internship - Task 2.
 
 Thank you for reviewing my work!
